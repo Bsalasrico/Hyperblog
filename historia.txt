@@ -1,0 +1,5 @@
+Este es mi archivo experimental N1
+
+Aqui empece a usar Git con Platzi
+
+Hoy seguiremos.
